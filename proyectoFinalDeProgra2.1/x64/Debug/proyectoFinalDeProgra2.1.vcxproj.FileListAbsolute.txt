@@ -1,0 +1,5 @@
+C:\Users\hetzo\OneDrive\Escritorio\proyectoFinalDeProgra2.1\x64\Debug\proyectoFinalDeProgra2.1.exe.config
+C:\Users\hetzo\OneDrive\Escritorio\proyectoFinalDeProgra2.1\proyectoFinalDeProgra2.1\x64\Debug\proyectoFinalDeProgra2.1.vcxproj.AssemblyReference.cache
+C:\Users\hetzo\OneDrive\Escritorio\proyectoFinalDeProgra2.1\proyectoFinalDeProgra2.1\x64\Debug\proyectoFinalDeProgra2.1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\hetzo\OneDrive\Escritorio\proyectoFinalDeProgra2.1\proyectoFinalDeProgra2.1\x64\Debug\proyectoFinalDeProgra2.1.exe.config
+C:\Users\hetzo\OneDrive\Escritorio\proyectoFinalDeProgra2.1\proyectoFinalDeProgra2.1\x64\Debug\proyectoFinalDeProgra2.1.vcxproj.CopyComplete
